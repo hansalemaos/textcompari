@@ -1,0 +1,6 @@
+cycompi
+numexpr
+numpy
+numpycythonpermutations
+pandas
+rapidfuzz
